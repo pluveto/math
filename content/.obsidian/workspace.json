@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "183ed6bd1b2619c2",
+            "id": "46bc629c56c2d3e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Posts/zk-SNARK 浅显分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5
   },
   "right": {
     "id": "fc63cffac7c2174d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Posts/zk-SNARK 浅显分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Posts/zk-SNARK 浅显分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Posts/zk-SNARK 浅显分析.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,6 +145,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "183ed6bd1b2619c2",
-  "lastOpenFiles": []
+  "active": "eb95b70bd3847c1b",
+  "lastOpenFiles": [
+    "Posts/zk-SNARK 浅显分析.md",
+    "Concepts/Finite Field.md",
+    "Concepts/Modular Arithmetic.md",
+    "Concepts/Homomorphic Encryption.md",
+    "Concepts/Homomorphism.md",
+    "Concepts/Zero Polynomial.md",
+    "Concepts/Schwartz-Zippel Lemma.md",
+    "Concepts/Polynomial.md",
+    "Concepts/Multivariate Polynomial.md",
+    "index.md",
+    "Posts",
+    "Concepts",
+    "有限域.md",
+    "多项式.md"
+  ]
 }

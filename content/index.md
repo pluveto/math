@@ -10,7 +10,7 @@ I share these notes here in the hopes they may benefit other students just start
 
 I hope you find this site useful as you investigate mathematics. My goal is support independent exploration of this fascinating subject. Please enjoy browsing the collection and let me know if there are any ways I can make it more helpful to fellow learners.
 
-### Acknowledgements
+## Acknowledgements
 
 These notes is edited using [Obsidian](https://obsidian.md/), a powerful note-taking application that supports the creation of a personal knowledge base. And this site is deployed using [Quartz](https://quartz.jzhao.xyz/)
 
@@ -18,3 +18,4 @@ Also thanks to these open source projects:
 
 1. <https://github.com/artisticat1/obsidian-latex-suite>
 2. <https://github.com/platers/obsidian-linter>
+3. <https://github.com/7368697661/Origami>

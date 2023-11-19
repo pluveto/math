@@ -34,19 +34,19 @@
       "yaml-keys-to-remove": ""
     },
     "yaml-key-sort": {
-      "enabled": false,
-      "yaml-key-priority-sort-order": "",
+      "enabled": true,
+      "yaml-key-priority-sort-order": "title\nalias\ndate",
       "priority-keys-at-start-of-yaml": true,
-      "yaml-sort-order-for-other-keys": "None"
+      "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
-      "enabled": false,
+      "enabled": true,
       "date-created": true,
-      "date-created-key": "date created",
-      "force-retention-of-create-value": false,
-      "date-modified": true,
-      "date-modified-key": "date modified",
-      "format": "dddd, MMMM Do YYYY, h:mm:ss a"
+      "date-created-key": "date",
+      "force-retention-of-create-value": true,
+      "date-modified": false,
+      "date-modified-key": "datemod",
+      "format": "YYYY-MM-DDTHH:mm:ss.SSSZ"
     },
     "yaml-title": {
       "enabled": false,
@@ -54,7 +54,7 @@
       "mode": "first-h1-or-filename-if-h1-missing"
     },
     "yaml-title-alias": {
-      "enabled": false,
+      "enabled": true,
       "preserve-existing-alias-section-style": true,
       "keep-alias-that-matches-the-filename": false,
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": true

@@ -1,4 +1,7 @@
 [
   "obsidian-linter",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "change-case",
+  "link-with-alias",
+  "obsidian-git"
 ]

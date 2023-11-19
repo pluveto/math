@@ -1,0 +1,27 @@
+{
+  "obsidian-linter:lint-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "L"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
+}

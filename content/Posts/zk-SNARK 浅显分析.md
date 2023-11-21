@@ -214,5 +214,23 @@ end function
 
 不过我们发现，它可以转换为如下形式：$f(w,a,b) = w(a \cdot b)+(1-w)(a+b)$
 
-由于任何指令都可以转换成 $f(\text{opr}, \text{op1}, \text{op2})$ 的形式，我们就可以把任何程序转换成多项式的序列。
-同时考虑到多项式的性质（可加，可相乘）
+由于任何指令都可以转换成 $f(\text{opr}, \text{op\_left}, \text{op\_right})$ 的形式，我们就可以把任何程序转换成多项式的序列。
+
+二元运算多项式
+
+$$
+l(x)\ \text{op}\ r(x)=o(x)
+$$
+如果成立，必然存在根 $a$ 使得 $l(a) \ \text{op}\ r(a) = o(a)$ 成立，则可得到目标多项式 $t(x) = x- a$.
+
+此处 $t(x)$ 和前文提到的含义相同。
+
+例如运算 $3 \times 2 = 6$ ，可以表示为多项式 $l(x) = 3x, r(x) = 6x, o(x) = 6(x)$ 在 $a = 1$ 时的值。
+
+这个运算的多项式为 $l(x) r(x) = o(x)$, i.e. $3x \times 2x = 6x$ i.e. $6x^2 - 6x = 0 = (6x)(x-1)$
+
+We could define $p(x) = l(x) \times r(x) - o(x) = t(x)h(x)$
+
+So $l(x)r(x) = t(x)h(x)+o(x)$
+
+https://hal.science/hal-03047093v1/file/homomorphic_journal%5B1%5D.pdf

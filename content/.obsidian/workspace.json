@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Associated Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9c95a5046a8644e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Common Reference String.md",
+                "file": "Posts/zk-SNARK 浅显分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 227.5
   },
   "right": {
     "id": "fc63cffac7c2174d",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Associated Types.md",
+                "file": "Posts/zk-SNARK 浅显分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Associated Types.md",
+                "file": "Posts/zk-SNARK 浅显分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Associated Types.md"
+                "file": "Posts/zk-SNARK 浅显分析.md"
               }
             }
           }
@@ -145,33 +134,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "ceb4101bc00ddf66",
   "lastOpenFiles": [
     "Rust/static lifetime.md",
     "Rust/Associated Types.md",
-    "index.md",
     "Rust",
-    "Concepts/Equivalence Relation.md",
-    "Posts/zk-SNARK 浅显分析.md",
-    "Concepts/Bilinear Pairing.md",
-    "Concepts/Multiplicative Cyclic Group.md",
-    "Concepts/Common Reference String.md",
-    "Concepts/Multiplicative Group.md",
-    "Concepts/Knowledge-of-Exponent Assumption.md",
     "Concepts/Residue Class.md",
+    "Concepts/Multiplicative Group.md",
+    "Concepts/Multiplicative Cyclic Group.md",
+    "Concepts/Equivalence Relation.md",
     "Concepts/Equivalence Class.md",
+    "Concepts/Common Reference String.md",
+    "Concepts/Bilinear Pairing.md",
+    "Bilinear Pairing.md",
+    "Posts/zk-SNARK 浅显分析.md",
+    "Common Reference String.md",
+    "Multiplicative Group.md",
+    "Multiplicative Cyclic Group.md",
+    "Concepts/Knowledge-of-Exponent Assumption.md",
+    "Residue Class.md",
+    "Equivalence Class.md",
+    "Equivalence Relation.md",
     "Concepts/Schwartz-Zippel Lemma.md",
     "Concepts/Safe and Sophie Germain primes.md",
     "Concepts/Lattice.md",
@@ -180,12 +175,6 @@
     "Concepts/NP.md",
     "Concepts/Group.md",
     "Concepts/Generator.md",
-    "Concepts/Normal Subgroup.md",
-    "Concepts/Finite Field.md",
-    "Concepts/Homomorphic Encryption.md",
-    "Concepts/Homomorphism.md",
-    "Concepts/Polynomial.md",
-    "Concepts/Multivariate Polynomial.md",
     "Posts",
     "Concepts"
   ]

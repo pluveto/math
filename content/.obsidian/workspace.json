@@ -8,18 +8,91 @@
         "type": "tabs",
         "children": [
           {
+            "id": "420f75ccc33f62f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Abstract Algebra/Discrete Logarithm Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ceb4101bc00ddf66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/zk-SNARK 浅显分析.md",
+                "file": "Concepts/Abstract Algebra/Bilinear Pairing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ec84a8b89cb4fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Abstract Algebra/Multiplicative Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7c903290fd66bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Abstract Algebra/Ring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ee933f51862762d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Abstract Algebra/Euler's totient function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "963e29a792a02705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Abstract Algebra/Common Factor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86a533840b1f94b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Abstract Algebra/Common Factor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "乘法",
+                "query": "贝祖定理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posts/zk-SNARK 浅显分析.md",
+                "file": "Concepts/Abstract Algebra/Ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Posts/zk-SNARK 浅显分析.md",
+                "file": "Concepts/Abstract Algebra/Ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Posts/zk-SNARK 浅显分析.md"
+                "file": "Concepts/Abstract Algebra/Ring.md"
               }
             }
           }
@@ -146,35 +218,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ceb4101bc00ddf66",
+  "active": "d7c903290fd66bd8",
   "lastOpenFiles": [
+    "Concepts/Abstract Algebra/Euler's totient function.md",
+    "乘性函数.md",
+    "Concepts/Abstract Algebra/Multiplicative Function.md",
+    "Concepts/Abstract Algebra/Common Factor.md",
+    "Concepts/Abstract Algebra/Group.md",
+    "Concepts/Abstract Algebra/Bilinear Pairing.md",
+    "Concepts/Abstract Algebra/Bézout's Identity.md",
+    "Concepts/Abstract Algebra/Discrete Logarithm Problem.md",
+    "Concepts/Crypto/Diffie-Hellman key exchange.md",
+    "Concepts/Abstract Algebra/Primitive root modulo n.md",
+    "Concepts/Abstract Algebra/Multiplicative Cyclic Group.md",
+    "Concepts/Abstract Algebra/Reduced Residue System.md",
+    "Concepts/Crypto",
+    "Concepts/Abstract Algebra/Isomorphism.md",
+    "Concepts/Abstract Algebra",
+    "Concepts/Abstract Algebra/Cyclic Group.md",
+    "Concepts/Abstract Algebra/Generator.md",
+    "Concepts/Abstract Algebra/Multiplicative Group.md",
+    "Concepts/Abstract Algebra/Binary Relation.md",
+    "Concepts/Abstract Algebra/Partially Ordered Set.md",
+    "Concepts/Abstract Algebra/Lattice.md",
+    "Concepts/Abstract Algebra/Field.md",
+    "Concepts/Abstract Algebra/Ring.md",
+    "Posts/zk-SNARK 浅显分析.md",
     "Rust/static lifetime.md",
     "Rust/Associated Types.md",
     "Rust",
-    "Concepts/Residue Class.md",
-    "Concepts/Multiplicative Group.md",
-    "Concepts/Multiplicative Cyclic Group.md",
-    "Concepts/Equivalence Relation.md",
-    "Concepts/Equivalence Class.md",
-    "Concepts/Common Reference String.md",
-    "Concepts/Bilinear Pairing.md",
-    "Bilinear Pairing.md",
-    "Posts/zk-SNARK 浅显分析.md",
-    "Common Reference String.md",
-    "Multiplicative Group.md",
-    "Multiplicative Cyclic Group.md",
-    "Concepts/Knowledge-of-Exponent Assumption.md",
-    "Residue Class.md",
-    "Equivalence Class.md",
-    "Equivalence Relation.md",
-    "Concepts/Schwartz-Zippel Lemma.md",
-    "Concepts/Safe and Sophie Germain primes.md",
-    "Concepts/Lattice.md",
-    "Concepts/Zero Polynomial.md",
-    "Concepts/Modular Arithmetic.md",
-    "Concepts/NP.md",
-    "Concepts/Group.md",
-    "Concepts/Generator.md",
+    "Concepts/Abstract Algebra/Residue Class.md",
+    "Concepts/Abstract Algebra/Equivalence Relation.md",
     "Posts",
     "Concepts"
   ]

@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "420f75ccc33f62f2",
+            "id": "a35810798ee9d10a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Abstract Algebra/Normal Subgroup.md",
+                "file": "Concepts/Crypto/Discrete Logarithm Problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3feaef52e2dbe02e",
+            "id": "6761134eb38a494b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Abstract Algebra/Permutation Group.md",
+                "file": "Concepts/Abstract Algebra/Field.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57249a3339b57066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Abstract Algebra/Ring.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "贝祖定理",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,14 +133,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Abstract Algebra/Normal Subgroup.md",
+                "file": "Concepts/Crypto/Discrete Logarithm Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Abstract Algebra/Normal Subgroup.md",
+                "file": "Concepts/Crypto/Discrete Logarithm Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,11 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Abstract Algebra/Normal Subgroup.md"
+                "file": "Concepts/Crypto/Discrete Logarithm Problem.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,36 +194,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "420f75ccc33f62f2",
+  "active": "a35810798ee9d10a",
   "lastOpenFiles": [
-    "Concepts/Abstract Algebra/Permutation Group.md",
-    "Concepts/Abstract Algebra/Normal Subgroup.md",
-    "Concepts/Abstract Algebra/Multiplicative Group.md",
-    "Concepts/Abstract Algebra/Primitive root modulo n.md",
-    "Concepts/Abstract Algebra/未命名.md",
-    "Concepts/Abstract Algebra/Quotient Group.md",
-    "Concepts/Abstract Algebra/Left Coset.md",
-    "Concepts/Abstract Algebra/Equivalence Class.md",
-    "Concepts/Abstract Algebra/Equivalence Relation.md",
-    "Concepts/Abstract Algebra/Lagrange's theorem (Group).md",
     "Concepts/Abstract Algebra/Cyclic Group.md",
-    "Concepts/Abstract Algebra/Power Set.md",
-    "Concepts/Abstract Algebra/Discrete Logarithm Problem.md",
-    "Concepts/Abstract Algebra/Bilinear Pairing.md",
-    "Concepts/Abstract Algebra/Multiplicative Function.md",
-    "Concepts/Abstract Algebra/Ring.md",
-    "Concepts/Abstract Algebra/Euler's totient function.md",
-    "Concepts/Abstract Algebra/Common Factor.md",
-    "乘性函数.md",
-    "Concepts/Abstract Algebra/Group.md",
-    "Concepts/Abstract Algebra/Bézout's Identity.md",
+    "Concepts/Crypto/Discrete Logarithm Problem.md",
+    "Concepts/Crypto/Elliptic Curve Cryptography.md",
+    "Concepts/Crypto/Elliptic Curve.md",
+    "Concepts/Abstract Algebra/Lattice.md",
+    "格.md",
     "Concepts/Crypto/Diffie-Hellman key exchange.md",
+    "Concepts/Abstract Algebra/Finite Field.md",
+    "Concepts/Abstract Algebra/Field.md",
+    "Concepts/Abstract Algebra/Ring.md",
+    "Concepts/Abstract Algebra/未命名.md",
+    "Concepts/Abstract Algebra/Semigroup.md",
+    "Monoid.md",
+    "Concepts/Abstract Algebra/Subgroup.md",
+    "Concepts/Abstract Algebra/Embedding.md",
+    "Concepts/Abstract Algebra/Group.md",
+    "Concepts/Abstract Algebra/Group Homomorphism.md",
+    "Concepts/Abstract Algebra/Homomorphism.md",
     "Concepts/Abstract Algebra/Multiplicative Cyclic Group.md",
-    "Concepts/Abstract Algebra/Reduced Residue System.md",
-    "Concepts/Crypto",
+    "Concepts/Abstract Algebra/Mapping.md",
+    "Concepts/Number Theory/Positive Divisor.md",
+    "Concepts/Number Theory",
+    "Concepts/Number Theory.md",
     "Concepts/Abstract Algebra/Isomorphism.md",
+    "Concepts/Abstract Algebra/Lagrange's theorem (Group).md",
+    "Concepts/Abstract Algebra/Left Coset.md",
+    "Concepts/Abstract Algebra/Permutation Group.md",
+    "Concepts/Crypto",
     "Concepts/Abstract Algebra",
-    "Concepts/Abstract Algebra/Generator.md",
     "Rust",
     "Posts",
     "Concepts"

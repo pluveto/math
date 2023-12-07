@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "braindump.ry.rs",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "Private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {

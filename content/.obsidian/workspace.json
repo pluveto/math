@@ -13,55 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Crypto/Discrete Logarithm Problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6761134eb38a494b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Abstract Algebra/Field.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57249a3339b57066",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Abstract Algebra/Ring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41e1dd63166dd079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Abstract Algebra/Multiplicative Group.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "824eb6b32c5f8249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Abstract Algebra/Primitive root modulo n.md",
+                "file": "Posts/零知识证明：深入理解理解 QAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card_123123",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Crypto/Discrete Logarithm Problem.md",
+                "file": "Posts/零知识证明：深入理解理解 QAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Crypto/Discrete Logarithm Problem.md",
+                "file": "Posts/零知识证明：深入理解理解 QAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Crypto/Discrete Logarithm Problem.md"
+                "file": "Posts/零知识证明：深入理解理解 QAP.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,33 +148,38 @@
   },
   "active": "a35810798ee9d10a",
   "lastOpenFiles": [
-    "Concepts/Abstract Algebra/Cyclic Group.md",
+    "Concepts/Crypto/R1CS.md",
+    "Concepts/Crypto/QAP.md",
+    "Concepts/Crypto/CAST.md",
+    "Concepts/Architecture/Two-Phase Commit.md",
+    "Concepts/Architecture/Three-Phase Commit.md",
+    "Concepts/Architecture/Quorum.md",
+    "Concepts/Architecture",
+    "Concepts/Algorithm/Network Information Flow Problem.md",
+    "Concepts/Algorithm/NP.md",
+    "Concepts/Algorithm",
+    "Posts/零知识证明：深入理解理解 QAP.out.md",
+    "Posts/零知识证明：深入理解理解 QAP.md",
+    "Private/Prompts.md",
+    "Posts/【论文解读】Mysticeti：Low-Latency DAG Consensus with Fast Commit Path.md",
+    "Posts/zk-SNARK 浅显分析.md",
+    "Concepts/Abstract Algebra/Schwartz-Zippel Lemma.md",
+    "Posts/assets/1dde5c0b38314aa7403da4eef7ec2610.png",
+    "Posts/assets",
+    "Concepts/Abstract Algebra/Extended Euclidean Algorithm.md",
+    "Concepts/Abstract Algebra/Bézout's Identity.md",
+    "Concepts/Abstract Algebra/Galois Field.md",
+    "Concepts/Abstract Algebra/Finite Field.md",
+    "Concepts/Number Theory/Positive Divisor.md",
+    "Private",
+    "Concepts/Abstract Algebra/Field.md",
     "Concepts/Crypto/Discrete Logarithm Problem.md",
+    "Concepts/Crypto/未命名.md",
+    "Concepts/Abstract Algebra/Cyclic Group.md",
     "Concepts/Crypto/Elliptic Curve Cryptography.md",
     "Concepts/Crypto/Elliptic Curve.md",
     "Concepts/Abstract Algebra/Lattice.md",
-    "格.md",
-    "Concepts/Crypto/Diffie-Hellman key exchange.md",
-    "Concepts/Abstract Algebra/Finite Field.md",
-    "Concepts/Abstract Algebra/Field.md",
-    "Concepts/Abstract Algebra/Ring.md",
-    "Concepts/Abstract Algebra/未命名.md",
-    "Concepts/Abstract Algebra/Semigroup.md",
-    "Monoid.md",
-    "Concepts/Abstract Algebra/Subgroup.md",
-    "Concepts/Abstract Algebra/Embedding.md",
-    "Concepts/Abstract Algebra/Group.md",
-    "Concepts/Abstract Algebra/Group Homomorphism.md",
-    "Concepts/Abstract Algebra/Homomorphism.md",
-    "Concepts/Abstract Algebra/Multiplicative Cyclic Group.md",
-    "Concepts/Abstract Algebra/Mapping.md",
-    "Concepts/Number Theory/Positive Divisor.md",
     "Concepts/Number Theory",
-    "Concepts/Number Theory.md",
-    "Concepts/Abstract Algebra/Isomorphism.md",
-    "Concepts/Abstract Algebra/Lagrange's theorem (Group).md",
-    "Concepts/Abstract Algebra/Left Coset.md",
-    "Concepts/Abstract Algebra/Permutation Group.md",
     "Concepts/Crypto",
     "Concepts/Abstract Algebra",
     "Rust",

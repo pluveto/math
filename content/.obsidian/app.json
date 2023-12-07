@@ -1,4 +1,6 @@
 {
   "propertiesInDocument": "source",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./assets"
 }

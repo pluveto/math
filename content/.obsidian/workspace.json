@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a35810798ee9d10a",
+            "id": "6c3740856f0e4c9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/零知识证明：深入理解理解 QAP.md",
+                "file": "Crypto/深入研究比特币：（3）RGB 协议介绍.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posts/零知识证明：深入理解理解 QAP.md",
+                "file": "Crypto/深入研究比特币：（3）RGB 协议介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Posts/零知识证明：深入理解理解 QAP.md",
+                "file": "Crypto/深入研究比特币：（3）RGB 协议介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Posts/零知识证明：深入理解理解 QAP.md"
+                "file": "Crypto/深入研究比特币：（3）RGB 协议介绍.md"
               }
             }
           }
@@ -146,44 +146,48 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a35810798ee9d10a",
+  "active": "6c3740856f0e4c9d",
   "lastOpenFiles": [
+    "Crypto/assets/RGB Protocol.md",
+    "Crypto/深入研究比特币：（0）从零到一.md",
+    "Crypto/深入理解比特币：（3）Lightning 网络.md",
+    "Crypto/深入研究比特币：（3）RGB 协议介绍.md",
+    "Crypto/Electrum 源码粗读（1）基本使用.md",
+    "Crypto/bdk、bdk-cli 源码粗读.md",
+    "Crypto/assets/Pasted image 20240309102635.png",
+    "Crypto/深入理解比特币：（2）Taproot.md",
+    "Crypto/深入理解比特币：（1）钱包和地址.md",
+    "AI/矩阵乘法反向传播公式推导.md",
+    "AI/Eigen.md",
+    "AI/行主序和列主序.md",
+    "AI/assets/Pasted image 20240307114654.png",
+    "AI/assets",
+    "Crypto/assets/Pasted image 20240306154750.png",
+    "Crypto/assets/Pasted image 20240306154734.png",
+    "Crypto/assets",
+    "Crypto",
+    "Monoid.md",
+    "index.md",
+    "未命名.md",
+    "AI/C++.md",
+    "AI/正向微分和反向微分.md",
+    "AI",
+    "Rust/static lifetime.md",
+    "Rust/Associated Types.md",
+    "Private/Prompts.md",
+    "Posts/zk-SNARK 浅显分析.md",
+    "Posts/零知识证明：深入理解理解 QAP.md",
+    "Posts/PBFT.md",
     "Concepts/Crypto/R1CS.md",
     "Concepts/Crypto/QAP.md",
     "Concepts/Crypto/CAST.md",
     "Concepts/Architecture/Two-Phase Commit.md",
-    "Concepts/Architecture/Three-Phase Commit.md",
-    "Concepts/Architecture/Quorum.md",
     "Concepts/Architecture",
-    "Concepts/Algorithm/Network Information Flow Problem.md",
-    "Concepts/Algorithm/NP.md",
     "Concepts/Algorithm",
-    "Posts/零知识证明：深入理解理解 QAP.out.md",
-    "Posts/零知识证明：深入理解理解 QAP.md",
-    "Private/Prompts.md",
-    "Posts/【论文解读】Mysticeti：Low-Latency DAG Consensus with Fast Commit Path.md",
-    "Posts/zk-SNARK 浅显分析.md",
-    "Concepts/Abstract Algebra/Schwartz-Zippel Lemma.md",
     "Posts/assets/1dde5c0b38314aa7403da4eef7ec2610.png",
     "Posts/assets",
-    "Concepts/Abstract Algebra/Extended Euclidean Algorithm.md",
-    "Concepts/Abstract Algebra/Bézout's Identity.md",
-    "Concepts/Abstract Algebra/Galois Field.md",
-    "Concepts/Abstract Algebra/Finite Field.md",
-    "Concepts/Number Theory/Positive Divisor.md",
     "Private",
-    "Concepts/Abstract Algebra/Field.md",
-    "Concepts/Crypto/Discrete Logarithm Problem.md",
-    "Concepts/Crypto/未命名.md",
-    "Concepts/Abstract Algebra/Cyclic Group.md",
-    "Concepts/Crypto/Elliptic Curve Cryptography.md",
-    "Concepts/Crypto/Elliptic Curve.md",
-    "Concepts/Abstract Algebra/Lattice.md",
     "Concepts/Number Theory",
-    "Concepts/Crypto",
-    "Concepts/Abstract Algebra",
-    "Rust",
-    "Posts",
-    "Concepts"
+    "Concepts/Crypto"
   ]
 }
